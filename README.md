@@ -1,7 +1,7 @@
 # Consumir API
 
 Este projeto utiliza:
-Express, Nodemon,  Cors, /axios
+Express, Nodemon,  Cors e Axios
 
 
 ## API
